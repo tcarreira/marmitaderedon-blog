@@ -1,0 +1,14 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = 1
+
+[[main]]
+  name = "Podcast"
+  url = "https://marmita.pt"
+  weight = 2
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = 3

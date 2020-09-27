@@ -1,0 +1,7 @@
+- item: "github"
+  url: "https://github.com/tcarreira"
+- item: "facebook"
+  url: "https://twitter.com/tiagogcarreira"
+- item: "rss"
+  url: "index.xml"
+  internal:  true
