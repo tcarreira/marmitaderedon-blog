@@ -3,6 +3,7 @@ title = "Como fazer um podcast"
 author = "Tiago Carreira"
 date = "2020-09-15T12:00:00.000+00:00"
 description = "Como fazer um Podcast"
+thumbnail = "images/dogcast_400.jpg"
 
 featured = true
 categorias = ["Tutorial"]
@@ -17,7 +18,15 @@ desde a sua gravação até à publicação.
 Conta a história de como o podcast Marmita de Redon (um podcast português sobre os anos 90 e 2000)
 foi criado e publicado.
 
-Essencialmente, estes artigos servem para responder à pergunta:
+Essencialmente, estes artigos servem para responder à pergunta:  
+**Como se faz um podcast (a custo zero)?**
+
+{{% 
+figure
+src="../../../images/dogcast_400.jpg" 
+attr="<small>\"Roscoe Considers Recording a Podcast\" por zoomar está sob licença CC BY-NC 2.0</small>"
+attrlink="https://www.flickr.com/photos/61456874@N00/2265202595"
+%}}
 
 ## Como se faz um podcast (a custo zero)?
 

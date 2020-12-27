@@ -3,6 +3,7 @@ title = "How to make a podcast"
 author = "Tiago Carreira"
 date = "2020-09-15T12:00:00.000+00:00"
 description = "How to make a Podcast"
+thumbnail = "images/dogcast_400.jpg"
 
 featured = true
 categorias = ["Tutorial"]
@@ -18,8 +19,16 @@ It will show how Marmita de Redon (a portuguese podcast about 90s and 2000s)
 was created and published.
 
 This will mainly answer the following question:
+**How do you make a podcast (for free)?**
 
-## How does a podcast is made (without any costs)?
+{{% 
+figure
+src="../../../images/dogcast_400.jpg" 
+attr="<small>\"Roscoe Considers Recording a Podcast\" by zoomar is licensed under CC BY-NC 2.0</small>"
+attrlink="https://www.flickr.com/photos/61456874@N00/2265202595"
+%}}
+
+## How do you make a podcast (for free)?
 
 I asked this question myself.
 How does things work, how do you start with an idea, a voice which is recorded and edited, and it is sent to the _cloud_,
@@ -65,6 +74,7 @@ Here is a small comparison chart about some of those options.
 
 [1] Paid Podcasters Platforms: Acast, Blubrry, Buzzprout, Captivate, Castos, Descript, Podbean, Simplecast, Speaker, Transistor, etc...  
 [2] Free Podcasters Platforms: Anchor, Breaker, Castbox, etc...
+
 
 ## To whom is this article for
 
