@@ -107,33 +107,13 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
 
 Well, I'll tell you how I did it at [Marmita de Redon](https://marmita.pt) podcast
 
-- **Content**  
-  A group of 4 friends keeps thinking about what to talk next episode
-
-- **Capturing**  
-  In order to capture with minimum quality, we record every episode with our smartphones. 
-  I dare to say this is the only thing you cannot get professional for free
-
-- **Audio files: digital episodes**  
-  Each episode is edited and rendered using open source [Audacity](https://www.audacityteam.org/), 
-  then uploaded to the [archive.org](https://archive.org)
-
-- **RSS Feed**  
-  Custom made source code, in order to fully support podcasting RSS feeds ([code on Github](https://github.com/Marmita-de-Redon/hugo-redon-podcast/blob/master/layouts/feed/rss.xml))
-
-- **Official website**  
-  Website made using [Hugo - a static site framework](https://gohugo.io/) 
-  and hosted on [Github Pages](https://pages.github.com/) for free
-  ([code on Github](https://github.com/Marmita-de-Redon/website))
-
-- **Social networks**  
-  Free accounts at Instagram, Facebook, Twitter, Youtube, Github, Disqus
-
-- **Brand**  
-  Vector images edited with [Inkscape](https://inkscape.org/), 
-  using open source materials from [Flaticon](https://www.flaticon.com/)
-  and open sourced at [Github](https://github.com/Marmita-de-Redon/brand). 
-  Colors are coherent among the website, thumbnails and social networks
-
-- **Statistics**  
-  You can get [free basic statistics](https://create.blubrry.com/resources/podcast-media-download-statistics/basic-statistics/) provided by Blubrry
+|       What       | How                                                                                                                                                                                                                                                                                |
+|:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Content      | A group of 4 friends keeps thinking about what to talk next episode                                                                                                                                                                                                                |
+|    Capturing     | In order to capture with minimum quality, we record every episode with our smartphones. I dare to say this is the only thing you cannot get professional for free                                                                                                                  |
+|   Audio files    | Each episode is edited and rendered using open source [Audacity](https://www.audacityteam.org/), then uploaded to the [archive.org](https://archive.org)                                                                                                                           |
+|     RSS Feed     | Custom made source code, in order to fully support podcasting RSS feeds ([code on Github](https://github.com/Marmita-de-Redon/hugo-redon-podcast/blob/master/layouts/feed/rss.xml))                                                                                                |
+| Official website | Website made using [Hugo - a static site framework](https://gohugo.io/) and hosted on [Github Pages](https://pages.github.com/) for free ([code on Github](https://github.com/Marmita-de-Redon/website))                                                                           |
+| Social networks  | Free accounts at Instagram, Facebook, Twitter, Youtube, Github, Disqus                                                                                                                                                                                                             |
+|      Brand       | Vector images edited with [Inkscape](https://inkscape.org/), using open source materials from [Flaticon](https://www.flaticon.com/) and open sourced at [Github](https://github.com/Marmita-de-Redon/brand). Colors are coherent among the website, thumbnails and social networks |
+|    Statistics    | You can get [free basic statistics](https://create.blubrry.com/resources/podcast-media-download-statistics/basic-statistics/) provided by Blubrry                                                                                                                                  |

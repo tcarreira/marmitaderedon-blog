@@ -107,33 +107,13 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
 
 Bem, foi desta forma que foi feito no podcast [Marmita de Redon](https://marmita.pt)
 
-- **Conteúdo**  
-  Um grupo de 4 amigos decide sobre o que vai ser falado no próximo episódio
-
-- **Captação**  
-  De forma a manter a qualidade num mínimo aceitável, gravamos cada episódio com os nossos smartphones. 
-  Atrevo-me a dizer que esta é a única coisa que não apresenta profissionalismo sem investimento.
-
-- **Ficheiros áudio: episódios em formato digital**  
-  Cada episódio é editado com o software livre [Audacity](https://www.audacityteam.org/)
-  e depois é enviado para o [archive.org](https://archive.org)
-
-- **Feed RSS**  
-  Foi criado novo código aberto para suportar completamente o feed RSS usado em _podcasting_ ([código no Github](https://github.com/Marmita-de-Redon/hugo-redon-podcast/blob/master/layouts/feed/rss.xml))
-
-- **Site oficial**  
-  Site feito em [Hugo - um _framework_ de sites estáticos](https://gohugo.io/) 
-  e alojado no [Github Pages](https://pages.github.com/) gratuitamente
-  ([código no Github](https://github.com/Marmita-de-Redon/website))
-
-- **Redes sociais**  
-  Contas gratuitas em Instagram, Facebook, Twitter, Youtube, Github, Disqus
-
-- **Marca**  
-  As imagens vetoriais editadas em [Inkscape](https://inkscape.org/), 
-  com recurso a materiais do [Flaticon](https://www.flaticon.com/)
-  e disponibilizado livremente em [Github](https://github.com/Marmita-de-Redon/brand). 
-  As cores são coerentes entre o site, imagens e redes sociais
-
-- **Estatísticas**  
-  É possível obter [estatísticas básicas gratuítas](https://create.blubrry.com/resources/podcast-media-download-statistics/basic-statistics/) disponibilizadas pelo serviço Blubrry.
+|      O quê      | Como                                                                                                                                                                                                                                                                                   |
+|:---------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    Conteúdo     | Um grupo de 4 amigos decide sobre o que vai ser falado no próximo episódio                                                                                                                                                                                                             |
+|    Captação     | De forma a manter a qualidade num mínimo aceitável, gravamos cada episódio com os nossos smartphones. Atrevo-me a dizer que esta é a única coisa que não apresenta profissionalismo sem investimento                                                                                   |
+| Ficheiros áudio | Cada episódio é editado com o software livre [Audacity](https://www.audacityteam.org/) e depois é enviado para o [archive.org](https://archive.org)                                                                                                                                    |
+|    Feed RSS     | Foi criado novo código aberto para suportar completamente o feed RSS usado em _podcasting_ ([código no Github](https://github.com/Marmita-de-Redon/hugo-redon-podcast/blob/master/layouts/feed/rss.xml))                                                                               |
+|  Site oficial   | Site feito em [Hugo - um _framework_ de sites estáticos](https://gohugo.io/) e alojado no [Github Pages](https://pages.github.com/) gratuitamente ([código no Github](https://github.com/Marmita-de-Redon/website))                                                                    |
+|  Redes sociais  | Contas gratuitas em Instagram, Facebook, Twitter, Youtube, Github, Disqus                                                                                                                                                                                                              |
+|      Marca      | As imagens vetoriais editadas em [Inkscape](https://inkscape.org/), com recurso a materiais do [Flaticon](https://www.flaticon.com/) e disponibilizado livremente em [Github](https://github.com/Marmita-de-Redon/brand). As cores são coerentes entre o site, imagens e redes sociais |
+|  Estatísticas   | É possível obter [estatísticas básicas gratuítas](https://create.blubrry.com/resources/podcast-media-download-statistics/basic-statistics/) disponibilizadas pelo serviço Blubrry                                                                                                      |
