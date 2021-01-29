@@ -7,6 +7,7 @@ thumbnail = "images/dogcast_400.jpg"
 
 featured = true
 categorias = ["Tutorial"]
+aliases = ["how-to-make-a-podcast"]
 +++
 
 Have you ever asked yourselves _how to create a podcast?_

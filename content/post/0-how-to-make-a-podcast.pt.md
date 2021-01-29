@@ -1,5 +1,5 @@
 +++
-title = "Como fazer um podcast"
+title = "Como se faz um podcast"
 author = "Tiago Carreira"
 date = "2021-01-29T12:00:00.000+00:00"
 description = "Como fazer um Podcast"
@@ -7,6 +7,7 @@ thumbnail = "images/dogcast_400.jpg"
 
 featured = true
 categorias = ["Tutorial"]
+aliases = ["como-se-faz-um-podcast"]
 +++
 
 Já se perguntaram _como se faz um podcast?_ 
