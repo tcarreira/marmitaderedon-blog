@@ -1,7 +1,7 @@
 +++
 title = "Podcast a custo zero (o que é essencial)"
 author = "Tiago Carreira"
-date = "2020-12-26T12:00:00.000+00:00"
+date = "2021-02-12T12:00:00.000+00:00"
 description = "Podcast a custo zero (o que é essencial)"
 thumbnail = "images/dog_phonograph_400.jpg"
 

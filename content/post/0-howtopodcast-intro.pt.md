@@ -1,7 +1,7 @@
 +++
 title = "Como fazer um podcast"
 author = "Tiago Carreira"
-date = "2020-09-15T12:00:00.000+00:00"
+date = "2021-01-29T12:00:00.000+00:00"
 description = "Como fazer um Podcast"
 thumbnail = "images/dogcast_400.jpg"
 

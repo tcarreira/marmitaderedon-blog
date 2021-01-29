@@ -1,7 +1,7 @@
 +++
 title = "Podcasting for free (what is essential)"
 author = "Tiago Carreira"
-date = "2020-12-26T12:00:00.000+00:00"
+date = "2021-02-12T12:00:00.000+00:00"
 description = "Podcasting for free (what is essential)"
 thumbnail = "images/dog_phonograph_400.jpg"
 
