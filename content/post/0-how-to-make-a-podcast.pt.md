@@ -16,7 +16,7 @@ Ou _quanto custa?_ ou _será que eu consigo fazer um podcast?_
 Esta é (será) uma série de artigos técnicos que visam analisar 
 todo o trabalho de desenvolvimento de um podcast,
 desde a sua gravação até à publicação.
-Conta a história de como o podcast Marmita de Redon (um podcast português sobre os anos 90 e 2000)
+Conta a história de como o podcast [Marmita de Redon](https://marmita.pt) (um podcast sobre os anos 90 e 2000)
 foi criado e publicado.
 
 Essencialmente, estes artigos servem para responder à pergunta:  

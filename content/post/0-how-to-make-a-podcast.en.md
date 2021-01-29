@@ -16,7 +16,7 @@ Or _how much does it cost?_ or _would I be able to create one myself?_
 This is (will be) a series of technical articles about 
 everything involved in producing a podcast,
 from recording to publishing.
-It will show how Marmita de Redon (a portuguese podcast about 90s and 2000s)
+It will show how [Marmita de Redon](https://marmita.pt) (a portuguese podcast about 90s and 2000s)
 was created and published.
 
 This will mainly answer the following question:
