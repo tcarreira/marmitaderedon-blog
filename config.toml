@@ -42,7 +42,7 @@ categorie = "categories"
     xhtml = false
 
 [params]
-customCSS = ["css/podcast.css"]
+customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"] # Include custom JS files
 
 author = "Tiago Carreira"
