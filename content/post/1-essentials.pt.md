@@ -139,9 +139,9 @@ em [github.com/marmita-de-redon](https://github.com/marmita-de-redon)
 
 ---
 
-Este é o artigo #1 da série: [Como fazer um podcast](./como-se-faz-um-podcast)
+Este é o artigo #1 da série: [Como fazer um podcast](../como-se-faz-um-podcast)
 
-1. [Podcast a custo zero (o que é essencial)](./1-essenciais)
+1. [Podcast a custo zero (o que é essencial)](../1-essenciais)
 2. Gravação e captura
 3. Edição sonora
 4. Marca: música, imagem e licenciamento

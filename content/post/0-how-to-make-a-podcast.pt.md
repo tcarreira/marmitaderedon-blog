@@ -99,7 +99,7 @@ Caso queiram esclarecer alguma questão ou dar uma sugestão para estes artigos,
 
 Os artigos planeados são os seguintes:
 
-1. [Podcast a custo zero (o que é essencial)](./1-essenciais)
+1. [Podcast a custo zero (o que é essencial)](../1-essenciais)
 2. Gravação e captura
 3. Edição sonora
 4. Marca: música, imagem e licenciamento
