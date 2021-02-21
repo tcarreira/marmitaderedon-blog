@@ -49,9 +49,7 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
   Temos vários exemplos: 
   [archive.org](https://archive.org),
   [S3 da AWS](https://aws.amazon.com/s3/),
-  [Dropbox](https://dropbox.com)/
-  [Drive](https://drive.google.com)/
-  [OneCloud](https://onecloud.com),
+  [Dropbox](https://dropbox.com)/[Drive](https://drive.google.com)/[OneDrive](https://www.microsoft.com/microsoft-365/onedrive/online-cloud-storage),
   ou mesmo o próprio site do podcast.
 
 - Feed RSS

@@ -49,9 +49,7 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
   We have some examples: 
   [archive.org](https://archive.org),
   [S3 from AWS](https://aws.amazon.com/s3/),
-  [Dropbox](https://dropbox.com)/
-  [Drive](https://drive.google.com)/
-  [OneCloud](https://onecloud.com),
+  [Dropbox](https://dropbox.com)/[Drive](https://drive.google.com)/[OneDrive](https://www.microsoft.com/microsoft-365/onedrive/online-cloud-storage),
   or even the podcast website.
 
 - RSS Feed
