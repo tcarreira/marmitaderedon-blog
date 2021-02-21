@@ -7,6 +7,7 @@ thumbnail = "images/dog_phonograph_400.jpg"
 
 featured = false
 categorias = ["Tutorial"]
+aliases = ["1-essenciais"]
 +++
 
 
@@ -29,23 +30,29 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
 - Conteúdo
 
   A coisa mais imprescindível num podcast é o conteúdo - é a alma do podcast e é o que os ouvintes consomem.
-  Esse conteúdo deve ser capturado/gravado de forma limpa e sem ruídos externos.
 
 - Captação
 
   Este é um dos pontos mais importantes na qualidade do podcast. 
-  E infelizmente não há atalhos. 
-  Para ter um podcast de qualidade é essencial um microfone de qualidade (mas não só!).
-  Se o objetivo do podcast é **apenas aprender e experimentar**, há alternativas gratuítas (o que foi feito no podcast [Marmita de Redon](https://marmita.pt)).
+  Infelizmente não há atalhos:
+  para ter um podcast de qualidade é essencial um microfone de qualidade (mas não só!).  
+  No entanto, se o objetivo do podcast é **aprender e experimentar**, há alternativas gratuítas (o que foi feito no podcast [Marmita de Redon](https://marmita.pt)).
 
 - Ficheiros áudio: episódios em formato digital
-  
+
   Esta é a forma de transmitir o conteúdo até aos ouvintes - um ficheiro áudio, normalmente em formato MP3.
   Este ficheiro deve estar alojado num site com acesso público.
 
-  Existem várias formas de alojamento destes ficheiros, umas mais caras ou baratas, mais livres ou proprietárias, etc.
-  Temos como exemplo o [archive.org](https://archive.org), [S3 da AWS](https://aws.amazon.com/s3/), 
-  Dropbox/Drive/OneCloud, ou mesmo o próprio site do podcast.
+- Alojamento 
+
+  Existem várias formas de alojamento dos ficheiros áudio, umas mais caras ou baratas, outras mais livres ou proprietárias.
+  Temos vários exemplos: 
+  [archive.org](https://archive.org),
+  [S3 da AWS](https://aws.amazon.com/s3/),
+  [Dropbox](https://dropbox.com)/
+  [Drive](https://drive.google.com)/
+  [OneCloud](https://onecloud.com),
+  ou mesmo o próprio site do podcast.
 
 - Feed RSS
 
@@ -87,6 +94,11 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
 
 ## Opcionais
 
+- Periodicidade
+
+  É útil para os ouvintes saber quando esperar o próximo episódio, 
+  dá um aspeto mais "saudável" ao podcast.
+
 - Monetização
 
   Este pode ser um dos objetivos iniciais do podcast (embora eu não recomende). 
@@ -105,15 +117,37 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
 
 # Como fazer a custo zero
 
-Bem, foi desta forma que foi feito no podcast [Marmita de Redon](https://marmita.pt)
+Melhor do que explicações, o melhor é ver um caso prático.
+Foi desta forma que aconteceu o podcast [Marmita de Redon](https://marmita.pt):
 
 |      O quê      | Como                                                                                                                                                                                                                                                                                   |
 |:---------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |    Conteúdo     | Um grupo de 4 amigos decide sobre o que vai ser falado no próximo episódio                                                                                                                                                                                                             |
 |    Captação     | De forma a manter a qualidade num mínimo aceitável, gravamos cada episódio com os nossos smartphones. Atrevo-me a dizer que esta é a única coisa que não apresenta profissionalismo sem investimento                                                                                   |
-| Ficheiros áudio | Cada episódio é editado com o software livre [Audacity](https://www.audacityteam.org/) e depois é enviado para o [archive.org](https://archive.org)                                                                                                                                    |
-|    Feed RSS     | Foi criado novo código aberto para suportar completamente o feed RSS usado em _podcasting_ ([código no Github](https://github.com/Marmita-de-Redon/hugo-redon-podcast/blob/master/layouts/feed/rss.xml))                                                                               |
-|  Site oficial   | Site feito em [Hugo - um _framework_ de sites estáticos](https://gohugo.io/) e alojado no [Github Pages](https://pages.github.com/) gratuitamente ([código no Github](https://github.com/Marmita-de-Redon/website))                                                                    |
+| Ficheiros áudio | Cada episódio é editado com o software livre [Audacity](https://www.audacityteam.org/) e exportado para MP3 stéreo a 192kbps                                                                                                                                                           |
+|   Alojamento    | Cada episódio é enviado para o [archive.org](https://archive.org)                                                                                                                                                                                                                      |
+|    Feed RSS     | Foi criado novo código aberto para suportar completamente o feed RSS usado em _podcasting_ ([código no Github](https://github.com/marmita-de-redon/hugo-redon-podcast/blob/master/layouts/feed/rss.xml))                                                                               |
+|  Site oficial   | Site feito em [Hugo - um _framework_ de sites estáticos](https://gohugo.io/) e alojado no [Github Pages](https://pages.github.com/) gratuitamente ([código no Github](https://github.com/marmita-de-redon/website))                                                                    |
 |  Redes sociais  | Contas gratuitas em Instagram, Facebook, Twitter, Youtube, Github, Disqus                                                                                                                                                                                                              |
-|      Marca      | As imagens vetoriais editadas em [Inkscape](https://inkscape.org/), com recurso a materiais do [Flaticon](https://www.flaticon.com/) e disponibilizado livremente em [Github](https://github.com/Marmita-de-Redon/brand). As cores são coerentes entre o site, imagens e redes sociais |
+|      Marca      | As imagens vetoriais editadas em [Inkscape](https://inkscape.org/), com recurso a materiais do [Flaticon](https://www.flaticon.com/) e disponibilizado livremente em [Github](https://github.com/marmita-de-redon/brand). As cores são coerentes entre o site, imagens e redes sociais |
 |  Estatísticas   | É possível obter [estatísticas básicas gratuítas](https://create.blubrry.com/resources/podcast-media-download-statistics/basic-statistics/) disponibilizadas pelo serviço Blubrry                                                                                                      |
+|  Periodicidade  | Semanal - lançamentos na madrugada de sexta                                                                                                                                                                                                                                            |
+|   Monetização   | Não feito                                                                                                                                                                                                                                                                              |
+|      Plano      | Satisfação pessoal, ouvir os ouvintes e seguir o instinto &#128539;                                                                                                                                                                                                                    |
+
+Adicionalmente o podcast [Marmita de Redon](https://marmita.pt) 
+tem o seu código aberto, disponível para consulta (e sugestões para modificação)
+em [github.com/marmita-de-redon](https://github.com/marmita-de-redon)
+
+---
+
+Este é o artigo #1 da série: [Como fazer um podcast](./como-se-faz-um-podcast)
+
+1. [Podcast a custo zero (o que é essencial)](./1-essenciais)
+2. Gravação e captura
+3. Edição sonora
+4. Marca: música, imagem e licenciamento
+5. Website
+6. Submissão e publicação (iTunes, Spotify, etc...)
+7. Redes sociais
+8. Automatização

@@ -7,6 +7,7 @@ thumbnail = "images/dog_phonograph_400.jpg"
 
 featured = false
 categorias = ["Tutorial"]
+aliases = ["1-essenciais"]
 +++
 
 
@@ -29,23 +30,29 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
 - Content
 
   The most important thing in a podcast is the content - it is the podcast soul and it is what listeners get.
-  This content must be captured/recorded, in a clear way and with no external noises.
 
 - Capturing
 
   This is one crucial point regarding the podcast quality.
-  Unfortunately, there are no shortcuts on this one.
-  In order to have quality, a good microphone is a must (but it's not the only thing!).
+  Unfortunately, there are no shortcuts on this one:
+  in order to have quality, a good microphone is a must (but it's not the only thing!).
   Nevertheless, if your objective is **to experiment and to learn**, there are free options (that was made at [Marmita de Redon](https://marmita.pt)).
 
 - Audio files: digital episodes
-  
+
   This is how the content is sent to the listeners - and audio file, usually MP3 format
   This file must be hosted on a publicly accessible website.
 
-  There are multiple options for hosting this files, some cheaper, some more proprietary, etc.
-  Some examples are the [archive.org](https://archive.org), [S3 from AWS](https://aws.amazon.com/s3/),  
-  Dropbox/Drive/OneCloud, or even the podcast website.
+- Hosting
+
+  There are multiple options for hosting this files, some cheaper or more expensive, other free/_libre_ or proprietary, etc.
+  We have some examples: 
+  [archive.org](https://archive.org),
+  [S3 from AWS](https://aws.amazon.com/s3/),
+  [Dropbox](https://dropbox.com)/
+  [Drive](https://drive.google.com)/
+  [OneCloud](https://onecloud.com),
+  or even the podcast website.
 
 - RSS Feed
 
@@ -87,6 +94,11 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
 
 ## Optional
 
+- Periodicity
+
+  If episodes are released with a fixed periodicity, 
+  listeners will feel the podcast as "healthier".
+
 - Monetization
 
   This may even be one of the core objectives (though I do not recommend it).
@@ -105,15 +117,37 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
 
 # How to make it for free
 
-Well, I'll tell you how I did it at [Marmita de Redon](https://marmita.pt) podcast
+Presenting a practical example is better than explaining everything.
+This is how it was made with [Marmita de Redon](https://marmita.pt) podcast
 
 |       What       | How                                                                                                                                                                                                                                                                                |
 |:----------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     Content      | A group of 4 friends keeps thinking about what to talk next episode                                                                                                                                                                                                                |
 |    Capturing     | In order to capture with minimum quality, we record every episode with our smartphones. I dare to say this is the only thing you cannot get professional for free                                                                                                                  |
-|   Audio files    | Each episode is edited and rendered using open source [Audacity](https://www.audacityteam.org/), then uploaded to the [archive.org](https://archive.org)                                                                                                                           |
-|     RSS Feed     | Custom made source code, in order to fully support podcasting RSS feeds ([code on Github](https://github.com/Marmita-de-Redon/hugo-redon-podcast/blob/master/layouts/feed/rss.xml))                                                                                                |
-| Official website | Website made using [Hugo - a static site framework](https://gohugo.io/) and hosted on [Github Pages](https://pages.github.com/) for free ([code on Github](https://github.com/Marmita-de-Redon/website))                                                                           |
+|   Audio files    | Each episode is edited and rendered using open source [Audacity](https://www.audacityteam.org/) and rendered as a stereo MP3 at 192kbps                                                                                                                                            |
+|     Hosting      | Every episode is uploaded to the [archive.org](https://archive.org)                                                                                                                                                                                                                |
+|     RSS Feed     | Custom made source code, in order to fully support podcasting RSS feeds ([code on Github](https://github.com/marmita-de-redon/hugo-redon-podcast/blob/master/layouts/feed/rss.xml))                                                                                                |
+| Official website | Website made using [Hugo - a static site framework](https://gohugo.io/) and hosted on [Github Pages](https://pages.github.com/) for free ([code on Github](https://github.com/marmita-de-redon/website))                                                                           |
 | Social networks  | Free accounts at Instagram, Facebook, Twitter, Youtube, Github, Disqus                                                                                                                                                                                                             |
-|      Brand       | Vector images edited with [Inkscape](https://inkscape.org/), using open source materials from [Flaticon](https://www.flaticon.com/) and open sourced at [Github](https://github.com/Marmita-de-Redon/brand). Colors are coherent among the website, thumbnails and social networks |
+|      Brand       | Vector images edited with [Inkscape](https://inkscape.org/), using open source materials from [Flaticon](https://www.flaticon.com/) and open sourced at [Github](https://github.com/marmita-de-redon/brand). Colors are coherent among the website, thumbnails and social networks |
 |    Statistics    | You can get [free basic statistics](https://create.blubrry.com/resources/podcast-media-download-statistics/basic-statistics/) provided by Blubrry                                                                                                                                  |
+|   Periodicity    | Weekly, every friday morning                                                                                                                                                                                                                                                       |
+|   Monetization   | No                                                                                                                                                                                                                                                                                 |
+|      A Plan      | Personal satisfaction, hearing our customers and feel our gut &#128539;                                                                                                                                                                                                            |
+
+Moreover, the [Marmita de Redon](https://marmita.pt) podcast
+is completely open source, and its code is available (suggestions are welcome)
+at [github.com/marmita-de-redon](https://github.com/marmita-de-redon)
+
+--- 
+
+This is the 1st article from the series [How to make a Podcast](./how-to-make-a-podcast)
+
+1. [Podcasting for free (the essentials)](./1-essentials)
+2. Recording and capturing
+3. Sound editing
+4. Brand: music, image and licencing
+5. Website
+6. Submission and publishing (iTunes, Spotify, etc...)
+7. Social Network
+8. Automation

@@ -99,12 +99,11 @@ If you want to make any question or suggestion about this articles, [you may con
 
 The planed articles are the following:
 
-- Podcasting for free (the essentials)
-- Recording and capturing
-- Sound editing
-- Brand: music, image and licencing
-- Website
-- Submission and publishing (iTunes, Spotify, etc...)
-- Social Network
-- Automation
-  
+1. [Podcasting for free (the essentials)](./1-essentials)
+2. Recording and capturing
+3. Sound editing
+4. Brand: music, image and licencing
+5. Website
+6. Submission and publishing (iTunes, Spotify, etc...)
+7. Social Network
+8. Automation
