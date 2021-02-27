@@ -2,7 +2,7 @@
 title = "Como se faz um podcast"
 author = "Tiago Carreira"
 date = "2021-01-29T12:00:00.000+00:00"
-description = "Como fazer um Podcast"
+description = "Como se faz um Podcast"
 thumbnail = "images/dogcast_400.jpg"
 
 featured = true
@@ -98,12 +98,4 @@ Caso queiram esclarecer alguma questão ou dar uma sugestão para estes artigos,
 ## O que vai ser abordado
 
 Os artigos planeados são os seguintes:
-
-1. [Podcast a custo zero (o que é essencial)](../1-essenciais)
-2. Gravação e captura
-3. Edição sonora
-4. Marca: música, imagem e licenciamento
-5. Website
-6. Submissão e publicação (iTunes, Spotify, etc...)
-7. Redes sociais
-8. Automatização
+{{< include "article-series/podcast.pt.md" >}}

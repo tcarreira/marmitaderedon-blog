@@ -139,13 +139,5 @@ at [github.com/marmita-de-redon](https://github.com/marmita-de-redon)
 
 --- 
 
-This is the 1st article from the series [How to make a Podcast](../how-to-make-a-podcast)
-
-1. [Podcasting for free (the essentials)](../1-essentials)
-2. Recording and capturing
-3. Sound editing
-4. Brand: music, image and licencing
-5. Website
-6. Submission and publishing (iTunes, Spotify, etc...)
-7. Social Network
-8. Automation
+This is the 1st article from the series [How to make a Podcast](../how-to-make-a-podcast):
+{{< include "article-series/podcast.en.md" >}}
