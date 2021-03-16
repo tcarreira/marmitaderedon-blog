@@ -1,7 +1,6 @@
 # set `baseurl` to your root domain
 # if you set it to "/" share icons won't work properly on production
 baseURL = "https://blog.marmita.pt/"  # Include trailing slash
-languageCode = "en-en"
 title = "Blog: Marmita de Redon"
 author = "Tiago Carreira"
 copyright = "Copyright © 2020, Marmita de Redon."
@@ -15,9 +14,11 @@ DefaultContentLanguage = "pt"
   [languages.pt]
     weight = 1
     languageName = "Português"
+    languageCode = "pt-pt"
   [languages.en]
     weight = 2
     languageName = "English"
+    languageCode = "en-en"
 
 # [menus]
 # config/_default/menus/menu.xx.toml
