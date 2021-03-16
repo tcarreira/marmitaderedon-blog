@@ -13,7 +13,7 @@ aliases = ["1-essenciais"]
 
 **>> Mas afinal o que é um podcast? <<**
 
-Tecnicamente, é apenas uma lista de ficheiros audio, listados num [feed RSS](https://pt.wikipedia.org/wiki/RSS).  
+Tecnicamente, é apenas uma lista de ficheiros áudio, listados num [feed RSS](https://pt.wikipedia.org/wiki/RSS).  
 Mas talvez esta seja uma visão demasiado simplificada da tecnologia.
 
 Aqui fica uma breve análise dos pontos importantes a ver num podcast em 3 categorias: essenciais, recomendados e opcionais.
@@ -36,7 +36,7 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
   Este é um dos pontos mais importantes na qualidade do podcast. 
   Infelizmente não há atalhos:
   para ter um podcast de qualidade é essencial um microfone de qualidade (mas não só!).  
-  No entanto, se o objetivo do podcast é **aprender e experimentar**, há alternativas gratuítas (o que foi feito no podcast [Marmita de Redon](https://marmita.pt)).
+  No entanto, se o objetivo do podcast é **aprender e experimentar**, há alternativas gratuitas (o que foi feito no podcast [Marmita de Redon](https://marmita.pt)).
 
 - Ficheiros áudio: episódios em formato digital
 
@@ -94,7 +94,7 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
 
 - Periodicidade
 
-  É útil para os ouvintes saber quando esperar o próximo episódio, 
+  É útil para os ouvintes saberem quando esperar o próximo episódio, 
   dá um aspeto mais "saudável" ao podcast.
 
 - Monetização
@@ -102,7 +102,7 @@ attrlink="https://live.staticflickr.com/3546/3353936487_2599d7b8dc_b.jpg"
   Este pode ser um dos objetivos iniciais do podcast (embora eu não recomende). 
   Tirar alguns rendimentos do podcast é possível, desde que haja um número considerável de ouvintes.
   A forma mais comum de monetização é através de anúncios, 
-  normalmente negociado com as marcas que pagam para o _podcaster_ falar delas.
+  normalmente negociados com as marcas que pagam para o _podcaster_ falar delas.
 
 - Um plano
 
@@ -128,7 +128,7 @@ Foi desta forma que aconteceu o podcast [Marmita de Redon](https://marmita.pt):
 |  Site oficial   | Site feito em [Hugo - um _framework_ de sites estáticos](https://gohugo.io/) e alojado no [Github Pages](https://pages.github.com/) gratuitamente ([código no Github](https://github.com/marmita-de-redon/website))                                                                    |
 |  Redes sociais  | Contas gratuitas em Instagram, Facebook, Twitter, Youtube, Github, Disqus                                                                                                                                                                                                              |
 |      Marca      | As imagens vetoriais editadas em [Inkscape](https://inkscape.org/), com recurso a materiais do [Flaticon](https://www.flaticon.com/) e disponibilizado livremente em [Github](https://github.com/marmita-de-redon/brand). As cores são coerentes entre o site, imagens e redes sociais |
-|  Estatísticas   | É possível obter [estatísticas básicas gratuítas](https://create.blubrry.com/resources/podcast-media-download-statistics/basic-statistics/) disponibilizadas pelo serviço Blubrry                                                                                                      |
+|  Estatísticas   | É possível obter [estatísticas básicas gratuitas](https://create.blubrry.com/resources/podcast-media-download-statistics/basic-statistics/) disponibilizadas pelo serviço Blubrry                                                                                                      |
 |  Periodicidade  | Semanal - lançamentos na madrugada de sexta                                                                                                                                                                                                                                            |
 |   Monetização   | Não feito                                                                                                                                                                                                                                                                              |
 |      Plano      | Satisfação pessoal, ouvir os ouvintes e seguir o instinto &#128539;                                                                                                                                                                                                                    |
