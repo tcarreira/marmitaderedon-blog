@@ -5,3 +5,7 @@ figure > figcaption {
 li > p {
   padding: 0 0 0.8em 0;
 }
+
+.post_content a {
+  color: #5CC6FF;
+}

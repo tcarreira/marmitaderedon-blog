@@ -43,7 +43,7 @@ categorie = "categories"
     xhtml = false
 
 [params]
-customCSS = ["css/custom.css"]
+customCSS = ["css/custom.css?9523b7d"]
 customJS = ["js/custom.js"] # Include custom JS files
 
 author = "Tiago Carreira"
